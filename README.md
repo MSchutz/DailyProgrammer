@@ -1,4 +1,4 @@
 DailyProgrammer
 ===============
 
-Daily Programmer submission using PHP.
+Daily Programmer submissions using PHP.
